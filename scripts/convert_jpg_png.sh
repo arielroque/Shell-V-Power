@@ -1,5 +1,4 @@
 #!/bin/bash
-#(C) 2019 Ariel Roque / UFCG
 
 source=$(ls shared/conversao)
 
