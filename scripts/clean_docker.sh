@@ -14,7 +14,7 @@ OPTION=0
 echo "==================================="
 echo "1) Delete All Containers"
 echo "2) Delete All Images"
-echo "3) Delete All Containers and Images"
+echo "3) Delete All Containers and mages"
 echo "==================================="
 
 read OPTION
