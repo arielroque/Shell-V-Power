@@ -1,5 +1,8 @@
 ![logo-shell4](https://user-images.githubusercontent.com/17733053/147994710-d428a2ab-f413-4d63-8c96-6f6d5c644a11.png)
 
+## :bookmark: Requirements
+- [Unix Shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+
 ## :triangular_flag_on_post: Starting
 
 ```bash
