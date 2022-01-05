@@ -8,3 +8,9 @@ https://github.com/arielroque/Shell-V-Power
 
 cd Shell-V-Power
 ```
+
+## :rocket: Contributing
+
+Pull request are also welcome , please read  [contributing](/CONTRIBUTING.md)  for details on our code of conduct, and the process for submitting pull requests to us.
+    
+-   Check  [issue templates](https://github.com/arielroque/Shell-V-Power/issues)  for the suggested issue formats
